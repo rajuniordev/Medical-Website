@@ -5,7 +5,7 @@
 }
 .header{
     width: 100%;
-    height: 50px;
+    height: 70px;
     background-color: #f5fbff;
     
 }
@@ -24,4 +24,28 @@
 
 .margin{
     margin-left: 40%;
+}
+.headlogo{
+    background-color: white;
+    height: 70px;
+    width: 100%;
+    display: flex;
+
+}
+.bg-img{
+    width: 100%;
+    height: 500px;
+    background-image: url(img/bg-img.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+    
+}
+.icon{
+    margin-top: 13px;
+    margin-left: 90px;
+}
+.flex{
+    display: flex;
+    list-style-type: none;
 }
